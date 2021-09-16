@@ -639,8 +639,6 @@ cyrus-imapd-utils
 cyrus-sasl
 cyrus-sasl-lib
 cyrus-sasl-plain
-dahdi
-dahdi-linux
 dbus
 dbus-glib
 dbus-libs
